@@ -1,6 +1,5 @@
 .place__down {
   display: flex;
-  justify-content: space-between;
   transition-duration: 0.2s;
 }
 
