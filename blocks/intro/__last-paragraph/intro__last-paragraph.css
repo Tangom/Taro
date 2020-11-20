@@ -1,9 +1,9 @@
 .intro__last-paragraph {
   max-width: 800px;
-  font-size: 25px;
+  font-size: 20px;
   line-height: 1.62;
   font-style: normal;
-  font-weight: normal;
+  font-weight: bold;
   margin: 20px 10px 0;
   transition-duration: 0.2s;
 }
