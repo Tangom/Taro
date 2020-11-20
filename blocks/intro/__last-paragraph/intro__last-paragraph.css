@@ -9,13 +9,14 @@
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-  .intro__paragraph {
+  .intro__last-paragraph {
     max-width: 720px;
   }
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
-  .intro__paragraph {
+  .intro__last-paragraph{
     max-width: 100%;
+    font-size: 13px;
   }
 }
