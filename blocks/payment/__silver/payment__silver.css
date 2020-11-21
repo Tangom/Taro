@@ -16,3 +16,10 @@
 .payment__silver:hover {
   box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 1);
 }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .payment__silver {
+    max-width: 266px;
+    margin: 20px auto 0;
+  }
+}
